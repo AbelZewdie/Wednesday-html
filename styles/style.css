@@ -1,0 +1,33 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 5vw;
+  padding: 3rem;
+}
+
+p {
+  color: #006633;
+}
+p{padding: 1rem 2rem;}
+
+a {
+  color: gold;
+  text-decoration: none;
+  display: inline-block;
+  background-color: darkgreen;
+  padding: 0.5rem 1rezm;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+
+#home{
+  background-color: antiquewhite;
+}
+
+#about{
+  background: aqua;
+}
+
+#logo{
+  width: 12rem;
+  border-radius: 1rem;
+}
